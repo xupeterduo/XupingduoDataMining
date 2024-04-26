@@ -8,4 +8,5 @@
 点击左上角new按钮，创建自己的仓库，输入仓库名称XupingduoDataMining，也可以对仓库进行描述，比如 My first repository,点击Create repository，完成仓库的创建
 
 3.上传自己的ppt
+点击仓库的 Add file按钮，然后再点Upload files按钮上传自己的ppt到仓库
 
